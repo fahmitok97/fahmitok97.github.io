@@ -45,6 +45,9 @@ view model =
                   br [] [],
                   p [] [
                     a [href "https://projecteuler.net/profile/fahmitok.png"] [text "click to go to my projecteuler account"]
+                  ] 
+                  p [] [
+                    a [href "https://fahmitok97.github.io/blog"] [text "click to go to my blog"]
                   ]
                 ]
               ]
